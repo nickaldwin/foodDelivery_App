@@ -75,10 +75,3 @@ During the course of this project I used different free UI design from Dribbble 
 
 The `backend` contains a completed Node js and Express application. Link to the backend repo and setup will appear here shortly
 
-## <a name="feedback"></a> Feedback
-
-Any questions or suggestions? Notice any bugs or glitches? Feel free to send me an [email](mailto:jacobyisoft@gmail.com).
-
-## <a name="author"></a> Author
-
-Jacob Yi (2021).
