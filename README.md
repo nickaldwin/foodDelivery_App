@@ -55,22 +55,6 @@
 - Express
 - MongoDB
 
-## <a name="design_inspiration"></a> Design Inspiration:
-
-During the course of this project I used different free UI design from Dribbble and would like to give credit to the designers
-
-- The Homepage is inspired by this design by [Morsalin Sarker](https://dribbble.com/shots/14576351-Food-landing-page-FoodFun)
-
-- The Checkout stepper is inspired by this design by [Drasius M](https://dribbble.com/shots/3374580-Freebie-sketch-Checkout-step-one)
-
-- The Foodlist page is inspired by this design from [Yoyumm](https://demo.yoyumm.com/restaurant/menu/the-stone-house/31)
-
-- The User profile page is inspired by this design by [Matt Wierzbicki](https://dribbble.com/shots/5959729-E-commerce-My-Account-Page)
-
-- The Signin and Signup page is inspired by this design by [Dawid Pietrasiak](https://dribbble.com/shots/13947179-Appreciation-Platform-Sign-Up)
-
-- The User payment History page is inspired by this design by [BoxedCMS](https://dribbble.com/shots/7284483-BoxedCMS-Payment-History)
-
 ## <a name="backend"></a> Backend
 
 The `backend` contains a completed Node js and Express application. Link to the backend repo and setup will appear here shortly
